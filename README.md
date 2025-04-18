@@ -1,17 +1,5 @@
 # Limpeza-Dataset-Financeiro
-Esse projeto teve como foco a análise exploratória e a limpeza de um dataset financeiro contendo informações de clientes de cartão de crédito em Taiwan, incluindo variáveis como:
-
-Limite de crédito disponível
-
-Histórico de pagamento
-
-Valor de contas a pagar
-
-Valor de pagamentos realizados
-
-Nível de escolaridade, estado civil, idade, entre outros
-
-E principalmente, a variável alvo default payment next month (inadimplência no próximo mês)
+Esse projeto teve como foco a análise exploratória e a limpeza de um dataset financeiro como:
 
 O objetivo central foi preparar esse conjunto de dados para futuras análises preditivas, modelagem estatística e extração de insights relevantes para o negócio.
 
